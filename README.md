@@ -2,7 +2,7 @@
 
 Instructions for adding Taskful lint standards to a project:
 
-```npm install --save-dev eslint-config-taskful eslint@^3.0.0 lint-staged@^3.0.0 pre-commit@^1.0.0```
+```npm install --save-dev eslint-config-taskful eslint lint-staged pre-commit```
 
 Add these objects to the package.json:
 
